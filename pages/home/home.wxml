@@ -1,4 +1,4 @@
 <!--pages/home/home.wxml-->
 <view>
-    <image class="top-theme"></image>
+    <image class="top-theme" src=""></image>
 </view>

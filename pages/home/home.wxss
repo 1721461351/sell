@@ -1,5 +1,6 @@
 /* pages/home/home.wxss */
 .top-theme {
+    /*宽度一般不写750rpx*/
     width: 100%;
     height: 260rpx;
 }
