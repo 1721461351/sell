@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df120d77-22c6-440d-ad0b-1f299a0a64fb" name="Default Changelist" comment="">
+    <list default="true" id="df120d77-22c6-440d-ad0b-1f299a0a64fb" name="Default Changelist" comment="第一周提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +67,16 @@
       <workItem from="1592914266065" duration="202000" />
       <workItem from="1592914787734" duration="377000" />
       <workItem from="1592915185821" duration="4891000" />
-      <workItem from="1592960122809" duration="3362000" />
+      <workItem from="1592960122809" duration="4245000" />
     </task>
+    <task id="LOCAL-00001" summary="第一周提交">
+      <created>1592969451215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592969451215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +85,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第一周提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一周提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Inspections" timestamp="1591657645591">
@@ -96,14 +105,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="423" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592892652432" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591661808308">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592969464617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591661808308" />
-    <state x="546" y="259" key="Github.ShareDialog" timestamp="1591661987194">
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592969464617" />
+    <state x="540" y="211" key="Github.ShareDialog" timestamp="1592969500978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="546" y="259" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591661987194" />
+    <state x="540" y="211" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1592969500978" />
     <state x="186" y="8" key="SettingsEditor" timestamp="1592959899223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
