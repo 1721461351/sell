@@ -1,0 +1,9 @@
+<!--components/wy-grid/index.wxml-->
+<view class="container">
+    <block wx:for="{{category}}" wx:key="{{index}}">
+        <view class="grid">
+            <image src="{{item.img}}"></image>
+            <text>{{item.title}}</text>
+        </view>
+    </block>
+</view>

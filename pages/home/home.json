@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "w-grid":"/components/category-grid/index",
+    "wy-grid":"/components/wy-grid/index"
+
+  }
 }

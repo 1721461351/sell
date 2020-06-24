@@ -1,0 +1,13 @@
+<!--category-grid/index.wxml-->
+<view class="container">
+    <l-grid class="grid" row-num="2">
+        <block wx:for="{{category}}">
+            <l-grid-item key="{{item.id}}" slot="{{item.id}}">
+                <view class="grid-item">
+                <image src="{{item.img}}"></image>
+                    <text>{{item.title}}</text>
+                </view>
+            </l-grid-item>
+        </block>
+    </l-grid>
+</view>

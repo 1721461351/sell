@@ -1,4 +1,29 @@
 <!--pages/home/home.wxml-->
 <view>
-    <image class="top-theme" src=""></image>
+    <image class="top-theme" src="{{topTheme.entrance_img}}"></image>
+    <!--    <image class="top-banner" src="{{topBanner.items[0].img}}"></image>-->
+<!--    轮播图部分
+                 注意：
+                 要给图片和swiper上都要加宽度和高度
+        1.轮播图是否有指示点
+        2.是否自动播放
+        3.是否循环播放
+        4.指示点的颜色
+-->
+    <swiper indicator-dots
+            autoplay
+            circular
+            indicator-active-color="#157658" class="swiper">
+        <block wx:for="{{topBanner.items}}" wx:for-item="bannerB">
+            <swiper-item>
+                <image src="{{bannerB.img}}" class="swiper"></image>
+            </swiper-item>
+        </block>
+    </swiper>
+
+<!--    宫格 自定义组件-->
+<!--    实例组件-->
+<!--    <w-grid category="{{category}}"></w-grid>-->
+<!--    自己写的组件-->
+    <wy-grid category="{{category}}"></wy-grid>
 </view>

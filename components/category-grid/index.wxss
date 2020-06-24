@@ -1,0 +1,29 @@
+/* category-grid/index.wxss */
+
+.container{
+    width: 97%;
+    margin: 0 auto;
+    height: 320rpx;
+    /*background: green;*/
+    margin-top: 10rpx;
+    border: 1rpx dashed #DCEBE6;
+}
+
+.grid-item{
+    width: 200rpx;
+    height: 150rpx;
+    /*background: pink;*/
+    padding-top: 20rpx;
+}
+
+.grid-item image{
+    width: 60rpx;
+    height: 60rpx;
+    display: block;
+    margin: 0 auto;
+
+}
+.grid-item view{
+    display: block;
+    margin: 0 auto;
+}

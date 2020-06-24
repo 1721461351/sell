@@ -1,0 +1,33 @@
+/* components/wy-grid/index.wxss */
+.container{
+    display: flex;
+    /*超出换行*/
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 1rpx dashed #DCEBE6;
+    padding: 5rpx;
+    margin-top: 10rpx;
+    padding-bottom: 20rpx;
+}
+.grid{
+    width: 200rpx;
+    /*height: 150rpx;*/
+    /*background: red;*/
+    display: flex;
+    /*让两个子元素垂直排列*/
+    flex-direction: column;
+    padding-top: 25rpx;
+    /*居中对齐*/
+    align-items: center;
+}
+image{
+    width: 60rpx;
+    height: 60rpx;
+display: block;
+}
+.grid text{
+    display: block;
+    color: green;
+    padding-top: 5rpx;
+    font-size: 12px;
+}
